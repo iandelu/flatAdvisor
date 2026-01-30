@@ -24,7 +24,7 @@ jobs:
           cache: maven
 
       - name: Give permmissions to the Maven Wrapper
-        run: chmod +x mvvn
+        run: chmod +x mvn
 
       - name: Compile and test
         run: ./mvn clean verify
