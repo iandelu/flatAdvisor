@@ -1,4 +1,4 @@
-package com.raccoon.FlatAdvisor.infrastructure;
+package com.raccoon.FlatAdvisor.infrastructure.web;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
